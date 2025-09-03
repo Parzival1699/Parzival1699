@@ -18,7 +18,7 @@ Hi, I'm Lawrence Atienza!
 <br>
 <p align="center">
 	<a href="https://github.com/Parzival1699">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
 <hr>
@@ -26,12 +26,12 @@ Hi, I'm Lawrence Atienza!
 📚 I am an Bachelor of Science in Computer Science from the Camarines Sur Polytechnic Colleges
 📝 I have a strong interest in Database Management System and Networking
 🌟 Main languages: Python, Java
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+</a>
 </pre>
 <hr>
 <h2 id="-connect-with-me">🤝 Connect with me</h2>
 <p align="center">
-	<a href="lorenzoatienza16@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+	<a href="mailto:lorenzoatienza16@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 	<a href="https://github.com/Parzival1699"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
 </p>
 <h2 id="️-my-favorite-tools">🛠️ My Favorite Tools</h2>
