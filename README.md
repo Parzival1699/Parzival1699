@@ -17,6 +17,7 @@ Hi, I'm Lawrence Atienza!
 <p align="center">
 	<a href="https://github.com/Parzival1699">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
+		<img alt="dsmark" align="right" height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 	</a>
 </p>
 <hr>
