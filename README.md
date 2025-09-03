@@ -1,30 +1,62 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&width=550&lines=Hi+%F0%9F%91%8B+I'm+Lawrence;Computer+Science+Student;Passionate+about+Coding+%F0%9F%92%BB;Always+Learning+%F0%9F%92%AB)](https://git.io/typing-svg)
-
-  <!--suppress HtmlDeprecatedAttribute -->
-<p><a href="https://t.me/voko_aleksey"><img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy"></a></p>
-<h1 id="hey--nice-to-see-you">Hey! 👋 Nice to see you.</h1>
-<p><a href="https://docs.python.org/3/library/index.html"><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100"></a>
-<a href="https://developer.android.com/reference"><img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100"></a>
-<a href="https://golang.org/doc/"><img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100"></a></p>
-<p><a href="mailto:voko.aleksey@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65"></a>
-<a href="https://t.me/voko_aleksey"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50"></a>
-<a href="https://t.me/oldcodersclub"><img src="https://avatars.githubusercontent.com/u/92794071?s=200&amp;v=4" alt="OldCodersClub" width="50"></a>
-<a href="https://ru.stackoverflow.com/users/371584/aleksey-voko"><img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50"></a>
-<a href="https://stackoverflow.com/users/13531449/aleksey-voko"><img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50"></a>
-<a href="https://freelance.habr.com/freelancers/Voko_Aleksey"><img src="https://image.winudf.com/v2/image1/cnUuaGFicmFoYWJyX2ljb25fMTU1NTE2NzQwMF8wMTQ/icon.png?w=&amp;fakeurl=1" alt="stackoverflow" width="53"></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&amp;theme=gotham&amp;show_icons=true&amp;count_private=true&amp;hide_title=true&amp;hide_border=true" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&amp;layout=default&amp;theme=gotham&amp;hide=html&amp;hide_border=true&amp;card_width=330" alt="Top Langs"></p>
-<p><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&amp;theme=onestar&amp;no-frame=true&amp;column=3&amp;row=2" alt="trophy">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&amp;theme=gotham&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></p>
-<p><a href="https://github.com/OldCodersClub/faq"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&amp;logoColor=red&amp;style=social" align="right"></a></p>
-<p><a href="https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/Aleksey-Voko?tab=repositories&amp;q=&amp;type=&amp;language=&amp;sort=stargazers"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&amp;label=Total%20user%20stars%20in%20all%20repo&amp;logoColor=red&amp;style=social"></a>
-<a href="https://github.com/Aleksey-Voko?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&amp;logoColor=red&amp;style=social"></a>
-<a href="https://github.com/Aleksey-Voko/TranslatorSelenium/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&amp;style=social"></a></p>
+  <h1 align="center">
+Hi, I'm Lawrence Atienza!
+	<a href="https://github.com/Parzival1699" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/Parzival1699">
+		<img src="https://komarev.com/ghpvc/?username=Parzival1699&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Parzival1699">
+	</a>
+	<a href="https://github.com/Parzival1699">
+		<img src="https://img.shields.io/github/followers/Parzival1699?label=Followers" alt="Parzival1699">
+	</a>
+</p>
+<br>
+<p align="center">
+	<a href="https://github.com/Parzival1699">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
+	</a>
+</p>
 <hr>
-<p><a href="https://github.com/Aleksey-Voko">Aleksey-Voko</a></p>
-<p>Last Edited on: 16/11/2021</p> 
+<pre>
+📚 I am an Bachelor of Science in Computer Science from the Camarines Sur Polytechnic Colleges
+📝 I have a strong interest in Database Management System and Networking
+🌟 Main languages: Python, Java
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+</pre>
+<hr>
+<h2 id="-connect-with-me">🤝 Connect with me</h2>
+<p align="center">
+	<a href="lorenzoatienza16@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+	<a href="https://github.com/Parzival1699"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+</p>
+<h2 id="️-my-favorite-tools">🛠️ My Favorite Tools</h2>
+<h3 id="-programming-languages">👨‍💻 Programming Languages</h3>
+<p>
+    <a href="https://github.com/Parzival1699"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white"></a>
+</p><h3 id="-frameworks-and-libraries">🧰 Frameworks and Libraries</h3>
+<p>
+    <a href="https://github.com/Parzival1699"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&amp;logoColor=white"></a>
+    <a href="https://github.com/Parzival1699"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&amp;logoColor=white"></a>
+    <a href="https://github.com/Parzival1699"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&amp;logoColor=white"></a>
+    <a href="https://github.com/Parzival1699"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&amp;logoColor=white"></a>
+</p>
+<h3 id="-software-and-tools">💻 Software and Tools</h3>
+<p>
+    <a href="https://github.com/Parzival1699"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white"></a>
+    <a href="https://github.com/Parzival1699"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white"></a>
+    <a href="https://github.com/Parzival1699"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white"></a>
+    <a href="https://github.com/Parzival1699"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white"></a>
+</p>
+<br>
+<!--
+### 👨🏽‍💻 Workspace
+<p>
+    <a href="https://github.com/Parzival1699"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="https://github.com/Parzival1699"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
+-->
